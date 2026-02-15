@@ -62,7 +62,7 @@ SPA for burger construction
 ## 📫 Let's Connect!
 
 [![Telegram](https://img.shields.io/badge/Telegram-@luvelayn-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/luvelayn)
-[![Email](https://img.shields.io/badge/Email-plnanzr%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:plnanzr@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:plnanzr@gmail.com)
 [![Habr Career](https://img.shields.io/badge/Habr_Career-luvelayn-77C14D?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/luvelayn)
 
 I'm open to new opportunities and collaborations. Feel free to reach out!
