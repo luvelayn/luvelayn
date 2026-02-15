@@ -42,23 +42,6 @@ Frontend Developer with an interdisciplinary background in bioinformatics and ba
   
 </div>
 
-## 🚀 Featured Projects
-
-### [SkillSwap](https://github.com/luvelayn/SkillSwap/tree/develop)
-Platform for skill exchange
-- Built API client for server communication
-- Developed UI components with Storybook documentation
-- Configured project setup
-- Team collaboration using Git feature-branch workflow
-
-### [Stellar Burgers](https://github.com/luvelayn/stellar-burgers)
-SPA for burger construction
-- Implemented routing with protected routes and JWT authentication
-- Built global state management with Redux Toolkit
-- Comprehensive testing: E2E scenarios (Cypress) and unit tests (Jest)
-
-📂 [View all projects →](https://github.com/luvelayn?tab=repositories)
-
 ## 📫 Let's Connect!
 
 [![Telegram](https://img.shields.io/badge/Telegram-@luvelayn-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/luvelayn)
